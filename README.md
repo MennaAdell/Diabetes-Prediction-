@@ -47,6 +47,7 @@ This is a *learning project* as part of my ML journey.
 It may not be perfect, but it reflects the progress I’ve made during the training.  
 
 ## 🔗 Resources
-- (https://www.kaggle.com/code/mennaadel111/diabetesprediction)
+- [Interactive Notebook on kaggle]
+(https://www.kaggle.com/code/mennaadel111/diabetesprediction)
 
 ---
